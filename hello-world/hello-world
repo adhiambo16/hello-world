@@ -1,1 +1,53 @@
-<h1>Hello,world</h>
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>PRIVATE ISLAND</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <h1>MOMBASA ISLAND</h1>
+  <p>This place have been existing for many years and has made us proud because so many tourists have been attracted to it.</p>
+  <!-- Do not display this at the moment
+<img border="0" src="pic_mountain.jpg" alt="Mountain">
+-->
+  <h2>Accomodations</h2>
+  <ol>
+    <li>drives and guides</li>
+    <li>safari planning</li>
+    <li>Staff support</li>
+  </ol>
+  <h3>Activities</h3>
+  <p>There are so many activities happening around the island that has been attracting tourists.</p>
+  <ol>
+    <li>swimming </li>
+    <li>beaches</li>
+    <h4>Travel arrangements</h4>
+    <p>The travelling follows a chronogical pattern</p>
+    <table style="width:100%">
+      <caption>monthly travelling</caption>
+      <tr>
+        <th>month</th>
+        <th>travel</th>
+      </tr>
+      <td>January -June</td>
+      <td>$1000</td>
+      </tr>
+      <tr>
+        <td>July -December</td>
+        <td>$500</td>
+      </tr>
+    </table>
+      <       h5>Picture</h5>
+      <p>The following are the pictures</p>
+      <img src="https://media.gettyimages.com/photos/beautiful-beach-resort-picture-id171579629?s=612x612">
+
+<h6>Conddtact information</h6>
+<p>For more details contact 0702769629</p>
+</html>
+</body>
+
+</html>
